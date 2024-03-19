@@ -1,0 +1,29 @@
+1. Journal of Machine Learning Research (JMLR)
+https://jmlr.org/
+
+2. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
+
+3. Machine Learning journal (Springer)
+https://link.springer.com/journal/10994
+
+4. Journal of Artificial Intelligence Research (JAIR)
+https://www.jair.org/index.php/jair
+
+5. Neural Computation journal (MIT Press)
+https://direct.mit.edu/neco
+
+6. Pattern Recognition journal (Elsevier)
+https://www.sciencedirect.com/journal/pattern-recognition
+
+7. IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+
+8. Artificial Intelligence journal (Elsevier)
+https://www.sciencedirect.com/journal/artificial-intelligence
+
+9. ACM Transactions on Intelligent Systems and Technology (TIST)
+https://dl.acm.org/journal/tist
+
+10. Nature Machine Intelligence
+https://www.nature.com/natmachintell/
