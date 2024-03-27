@@ -1,0 +1,8 @@
+# 3/27/24
+
+Neural Computation
+
+"CA3 Circuit Model Compressing Sequential Information in Theta Oscillation and Replay"
+
+https://direct.mit.edu/neco/article/36/4/501/119782/CA3-Circuit-Model-Compressing-Sequential 
+
