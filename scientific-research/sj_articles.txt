@@ -1,0 +1,6 @@
+Neural Computation
+
+"Large Language Models and the Reverse Turing Test"
+
+https://direct.mit.edu/neco/article/35/3/309/114731/Large-Language-Models-and-the-Reverse-Turing-Test
+
